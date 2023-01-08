@@ -1,10 +1,8 @@
 # ISLR-python
-This repository contains Python code for a selection of tables, figures and LAB sections from the first edition of the book <A target="_blank" href='https://www.statlearning.com/'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
+This repository contains Python code for a selection of tables, figures and LAB sections from the first edition of the book <A target="_blank" href='https://www.statlearning.com/'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2nd edition, 2021).<P>
 
  For **Bayesian data analysis** using PyMC3, take a look at <A href='https://github.com/JWarmenhoven/DBDA-python'>this repository</A>.
 
-**2018-01-15**:<BR>
-Minor updates to the repository due to changes/deprecations in several packages. The notebooks have been tested with <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/ISLR-python/blob/master/Notebooks/Python%20module%20versions.ipynb'>these package versions</A>. Thanks @lincolnfrias and @telescopeuser.
 <P>
 
 **2016-08-30**:<BR>
